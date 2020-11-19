@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\bin\Debug\MouseEvent_Hook.exe.config
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\bin\Debug\MouseEvent_Hook.exe
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\bin\Debug\MouseEvent_Hook.pdb
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.Properties.Resources.resources
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.exe
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.pdb
+C:\Users\admin\source\repos\MouseEvent_Hook\MouseEvent_Hook\obj\Debug\MouseEvent_Hook.Form1.resources

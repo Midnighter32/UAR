@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseEvent_Hook", "MouseEvent_Hook\MouseEvent_Hook.csproj", "{2F984D01-9FC2-44C0-ABA3-9940A73EF3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketTest", "SocketTest\SocketTest.csproj", "{709BAF73-FD98-4042-A41C-3663C526ADA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F984D01-9FC2-44C0-ABA3-9940A73EF3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F984D01-9FC2-44C0-ABA3-9940A73EF3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F984D01-9FC2-44C0-ABA3-9940A73EF3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F984D01-9FC2-44C0-ABA3-9940A73EF3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709BAF73-FD98-4042-A41C-3663C526ADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709BAF73-FD98-4042-A41C-3663C526ADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709BAF73-FD98-4042-A41C-3663C526ADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709BAF73-FD98-4042-A41C-3663C526ADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB97DC34-3193-461E-B718-F49DBBFF4EB5}
+	EndGlobalSection
+EndGlobal

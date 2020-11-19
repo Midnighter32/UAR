@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\bin\Debug\SocketTest.exe.config
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\bin\Debug\SocketTest.exe
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\bin\Debug\SocketTest.pdb
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\obj\Debug\SocketTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\obj\Debug\SocketTest.exe
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\obj\Debug\SocketTest.pdb
+C:\Users\admin\source\repos\MouseEvent_Hook\SocketTest\obj\Debug\SocketTest.csprojAssemblyReference.cache
